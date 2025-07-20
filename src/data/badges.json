@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Quiz Master",
+    "description": "Created 10+ quizzes",
+    "icon": "crown",
+    "color": "gold",
+    "rarity": "epic"
+  },
+  {
+    "id": "2",
+    "title": "Speed Demon",
+    "description": "Answered 5 questions in under 10 seconds",
+    "icon": "zap",
+    "color": "yellow",
+    "rarity": "rare"
+  },
+  {
+    "id": "3",
+    "title": "Platform Guardian",
+    "description": "Admin privileges",
+    "icon": "shield",
+    "color": "blue",
+    "rarity": "legendary"
+  },
+  {
+    "id": "4",
+    "title": "First Steps",
+    "description": "Completed your first quiz",
+    "icon": "star",
+    "color": "green",
+    "rarity": "common"
+  },
+  {
+    "id": "5",
+    "title": "Perfect Score",
+    "description": "Achieved 100% on a quiz",
+    "icon": "target",
+    "color": "red",
+    "rarity": "rare"
+  },
+  {
+    "id": "6",
+    "title": "AI Enthusiast",
+    "description": "Completed 5 AI-generated quizzes",
+    "icon": "brain",
+    "color": "purple",
+    "rarity": "epic"
+  }
+]

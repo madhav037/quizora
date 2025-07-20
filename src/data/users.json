@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "role": "creator",
+    "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+    "badges": [
+      {
+        "id": "1",
+        "title": "Quiz Master",
+        "description": "Created 10+ quizzes",
+        "icon": "crown",
+        "color": "gold",
+        "rarity": "epic"
+      }
+    ],
+    "stats": {
+      "totalQuizzes": 15,
+      "totalScore": 1250,
+      "averageScore": 83.3,
+      "rank": 1
+    }
+  },
+  {
+    "id": "2",
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "role": "participant",
+    "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+    "badges": [
+      {
+        "id": "2",
+        "title": "Speed Demon",
+        "description": "Answered 5 questions in under 10 seconds",
+        "icon": "zap",
+        "color": "yellow",
+        "rarity": "rare"
+      }
+    ],
+    "stats": {
+      "totalQuizzes": 25,
+      "totalScore": 1890,
+      "averageScore": 75.6,
+      "rank": 2
+    }
+  },
+  {
+    "id": "3",
+    "name": "Carol Davis",
+    "email": "carol@example.com",
+    "role": "admin",
+    "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+    "badges": [
+      {
+        "id": "3",
+        "title": "Platform Guardian",
+        "description": "Admin privileges",
+        "icon": "shield",
+        "color": "blue",
+        "rarity": "legendary"
+      }
+    ],
+    "stats": {
+      "totalQuizzes": 8,
+      "totalScore": 720,
+      "averageScore": 90.0,
+      "rank": 3
+    }
+  }
+]
